@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alvin                                                                                                  
 A Junior Software Developer-------------------------* 
-🌍  I'm based in UK* 🧠  I'm learning Sotware Development at a Bootcamp* 🤝  I'm open to collaborating on Any interesting projects
+🌍  I'm based in UK* 🧠  A Junior Software Developer, graduating from JustIT Bootcamp* 🤝  I'm actively seeking Junior developer roles and  open to collaborating on any interesting projects!
 
 ### Skills
 
